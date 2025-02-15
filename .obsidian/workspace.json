@@ -165,19 +165,9 @@
               "icon": "lucide-list",
               "title": "Outline of Hello md"
             }
-          },
-          {
-            "id": "59596ad9c899efb3",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -194,10 +184,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ec161291dc265828",
+  "active": "bee400e51ef1dccf",
   "lastOpenFiles": [
-    "docs/404.md",
     "docs/Hello md.md",
+    "docs/404.md",
     "docs/Homelab.canvas",
     "docs/obsidian.md",
     "docs/Ollama.md",
