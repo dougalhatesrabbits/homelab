@@ -1,7 +1,7 @@
 Homelab
 
-Repository for Ansible and general configuration of Proxmox hosts and VMs.
+Repository for this homelab's Ansible runbooks and the general configurations deployed in setting up its Proxmox hosts containers and VMs. Also, includes the TruNAS settings and Proxmox backup server.
 
-This was initiated as part of the Learn LinuxTV tutorial on local MacMini.
+- Ansible - This was initiated as part of the Learn LinuxTV tutorial on local MacMini.
 
-Now added the Semaphore service runing on VM
+  Now added the Semaphore service runing on VM
