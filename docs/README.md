@@ -4,4 +4,6 @@ Repository for this homelab's Ansible runbooks and the general configurations de
 
 - Ansible - This was initiated as part of the Learn LinuxTV tutorial on local MacMini.
 
-  Now added the Semaphore service runing on VM
+  Now added the Semaphore service running on VM
+
+- Now include obsidian vault
