@@ -1,5 +1,5 @@
 {
-  "remoteURL": "https://github.com/dougalhatesrabbits/homelab",
+  "remoteURL": "git@github.com:dougalhatesrabbits/homelab.git",
   "gitLocation": "",
   "syncinterval": 0,
   "isSyncOnLoad": false
