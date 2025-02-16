@@ -11,10 +11,14 @@
             "id": "99a9693c589b2830",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "docs/12345.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "12345"
             }
           }
         ]
@@ -138,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "docs/12345.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 12345"
             }
           }
         ],
@@ -164,7 +169,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4e86d34bec62a9a6",
+  "active": "99a9693c589b2830",
   "lastOpenFiles": [
     "docs/Helloworld.md",
     "docs/12345.md",
