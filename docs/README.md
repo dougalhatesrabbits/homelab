@@ -1,7 +1,13 @@
 Homelab
 
-Repository for this homelab's Ansible runbooks and the general configurations deployed in setting up its Proxmox hosts containers and VMs. Also, includes the TruNAS settings and Proxmox backup server.
+Repository for this homelab's Ansible runbooks and the general configurations deployed in setting up its Proxmox hosts, containers and VMs. Also, includes the TruNAS settings and the Proxmox backup server. 
 - Ansible - This was initiated as part of the Learn LinuxTV tutorial on local MacMini.
   Now added the Semaphore service running on VM
-- Now includes obsidian vault
+- Now includes obsidian vault notes to deploy upgraded kit to existing lab
 - 404
+- Project for llama.cpp ditributed rpc nodes
+- Project for 8n8 automation using one of the LLMs
+- Project to use ollama inference with Open WebAI
+- Integrate LM studio with llama.cpp
+- Projects to run Netdata, Nagios and Zabbix again
+- Check state of InfluxDB, Prometheus and Grafana instances
