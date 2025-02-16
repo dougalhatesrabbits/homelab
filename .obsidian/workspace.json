@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/test.md",
+                "file": "docs/Helloworld.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test"
+              "title": "Helloworld"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/test.md",
+                "file": "docs/Helloworld.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of test"
+              "title": "Outline of Helloworld"
             }
           }
         ],
@@ -171,9 +171,9 @@
   },
   "active": "4ce342628cb459d8",
   "lastOpenFiles": [
-    "docs/README.md",
     "docs/test.md",
-    "docs/Hello.md",
+    "docs/README.md",
+    "docs/Helloworld.md",
     "docs/Hello md.md",
     "docs/404.md",
     "docs/Homelab.canvas",
