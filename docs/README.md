@@ -7,3 +7,4 @@ Repository for this homelab's Ansible runbooks and the general configurations de
   Now added the Semaphore service running on VM
 
 - Now include obsidian vault
+- 404
