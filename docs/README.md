@@ -5,7 +5,7 @@ Repository for this homelab's Ansible runbooks and the general configurations de
   Now added the Semaphore service running on VM
 - Now includes obsidian vault notes to deploy upgraded kit to existing lab
 - 404
-- Project for llama.cpp ditributed rpc nodes
+- Project for llama.cpp distributed rpc nodes
 - Project for 8n8 automation using one of the LLMs
 - Project to use ollama inference with Open WebAI
 - Integrate LM studio with llama.cpp
